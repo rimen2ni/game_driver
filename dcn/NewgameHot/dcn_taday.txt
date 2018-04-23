@@ -1,0 +1,30 @@
+ranking：01,game_name：王者荣耀,game_type：MOBA 动作 
+ranking：02,game_name：穿越火线：枪战王者,game_type：射击 
+ranking：03,game_name：决战！平安京,game_type：MOBA 动作 
+ranking：04,game_name：荒野行动,game_type：射击 动作 
+ranking：05,game_name：孤岛先锋,game_type：射击 3D 
+ranking：06,game_name：宿命契约,game_type：角色 3D 动漫 
+ranking：07,game_name：楚留香,game_type：角色 武侠 
+ranking：08,game_name：部落冲突,game_type：策略 3D 
+ranking：09,game_name：克鲁赛德战记,game_type：角色 横版 
+ranking：10,game_name：阴阳师,game_type：卡牌 动漫 
+ranking：11,game_name：诛仙,game_type：角色 仙侠 
+ranking：12,game_name：率土之滨,game_type：策略 历史 
+ranking：13,game_name：梦幻西游,game_type：角色 仙侠 魔幻 
+ranking：14,game_name：绝地求生：刺激战场,game_type：射击 
+ranking：15,game_name：QQ飞车,game_type：体育 休闲 3D 
+ranking：16,game_name：恋舞OL,game_type：音乐 3D 
+ranking：17,game_name：部落冲突：皇室战争,game_type：策略 动作 
+ranking：18,game_name：FIFA足球世界,game_type：体育 3D 
+ranking：19,game_name：全民枪战,game_type：射击 横版 
+ranking：20,game_name：绝地求生 全军出击,game_type：策略 射击 动作 
+ranking：21,game_name：游龙传说,game_type：角色 3D 动作 
+ranking：22,game_name：QQ炫舞手游,game_type：音乐 动漫 
+ranking：23,game_name：虚荣,game_type：MOBA 
+ranking：24,game_name：问道,game_type：角色 仙侠 
+ranking：25,game_name：大话西游,game_type：角色 仙侠 
+ranking：26,game_name：放开那三国2,game_type：角色 历史 
+ranking：27,game_name：帝王·三国,game_type：策略 历史 
+ranking：28,game_name：猎魂觉醒,game_type：角色 动作 
+ranking：29,game_name：三国志2017,game_type：策略 3D 历史 
+ranking：30,game_name：永远的7日之都,game_type：养成 3D 

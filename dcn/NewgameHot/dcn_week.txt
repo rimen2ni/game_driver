@@ -1,0 +1,30 @@
+ranking：01,game_name：第五人格,game_type：角色 3D 横版 
+ranking：02,game_name：诛仙,game_type：角色 仙侠 
+ranking：03,game_name：楚留香,game_type：角色 武侠 
+ranking：04,game_name：恋舞OL,game_type：音乐 3D 
+ranking：05,game_name：虚荣,game_type：MOBA 
+ranking：06,game_name：穿越火线：枪战王者,game_type：射击 
+ranking：07,game_name：王者荣耀,game_type：MOBA 动作 
+ranking：08,game_name：火影忍者,game_type：角色 动漫 
+ranking：09,game_name：天天酷跑3D,game_type：休闲 
+ranking：10,game_name：绝地求生：刺激战场,game_type：射击 
+ranking：11,game_name：荒野行动,game_type：射击 动作 
+ranking：12,game_name：梦幻西游,game_type：角色 仙侠 魔幻 
+ranking：13,game_name：阴阳师,game_type：卡牌 动漫 
+ranking：14,game_name：决战！平安京,game_type：MOBA 动作 
+ranking：15,game_name：QQ飞车,game_type：体育 休闲 3D 
+ranking：16,game_name：幻想英雄2,game_type：角色 魔幻 
+ranking：17,game_name：萌舞OL,game_type：音乐 3D 
+ranking：18,game_name：率土之滨,game_type：策略 历史 
+ranking：19,game_name：武林外传,game_type：角色 3D 武侠 
+ranking：20,game_name：荣耀铁骑,game_type：MOBA 3D 
+ranking：21,game_name：军师天下,game_type：卡牌 武侠 动作 历史 
+ranking：22,game_name：剑侠世界2手游,game_type：角色 3D 武侠 
+ranking：23,game_name：冠军网球,game_type：体育 3D 
+ranking：24,game_name：热血武道会,game_type：卡牌 动漫 
+ranking：25,game_name：龙魂之剑,game_type：角色 魔幻 动作 
+ranking：26,game_name：剑魂之刃,game_type：角色 横版 动作 
+ranking：27,game_name：现代海战,game_type：策略 3D 
+ranking：28,game_name：全民觉醒,game_type：卡牌 科幻 横版 动漫 
+ranking：29,game_name：部落冲突：皇室战争,game_type：策略 动作 
+ranking：30,game_name：胡了三国,game_type：休闲 历史 

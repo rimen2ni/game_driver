@@ -1,0 +1,30 @@
+ranking：01,game_name：非人学园,game_type：MOBA 3D 动漫 
+ranking：02,game_name：奇迹：最强者,game_type：角色 魔幻 
+ranking：03,game_name：保卫萝卜3,game_type：休闲 横版 
+ranking：04,game_name：仙剑奇侠传3D回合,game_type：角色 武侠 
+ranking：05,game_name：剑网3口袋版,game_type：角色 武侠 
+ranking：06,game_name：希望传说,game_type：角色 3D 动漫 
+ranking：07,game_name：传奇世界手游,game_type：角色 动作 
+ranking：08,game_name：天下第一剑客传,game_type：角色 3D 横版 动作 
+ranking：09,game_name：幻想英雄2,game_type：角色 魔幻 
+ranking：10,game_name：征途手机版,game_type：角色 武侠 
+ranking：11,game_name：鬼剑豪,game_type：角色 动作 
+ranking：12,game_name：武林外传,game_type：角色 3D 武侠 
+ranking：13,game_name：战争艺术：赤潮,game_type：策略 科幻 
+ranking：14,game_name：FIFA足球世界,game_type：体育 3D 
+ranking：15,game_name：萌舞OL,game_type：音乐 3D 
+ranking：16,game_name：征途2手游,game_type：角色 武侠 历史 
+ranking：17,game_name：守护之光,game_type：策略 卡牌 
+ranking：18,game_name：九阳神功,game_type：MOBA 动作 
+ranking：19,game_name：武动乾坤,game_type：卡牌 仙侠 动作 
+ranking：20,game_name：荣耀铁骑,game_type：MOBA 3D 
+ranking：21,game_name：托拉姆物语,game_type：角色 3D 魔幻 动漫 
+ranking：22,game_name：街篮,game_type：体育 动作 
+ranking：23,game_name：传奇世界3D,game_type：角色 动作 
+ranking：24,game_name：真古龙3D,game_type：角色 武侠 动作 
+ranking：25,game_name：北凉悍刀行,game_type：角色 仙侠 武侠 动作 
+ranking：26,game_name：雷霆海战,game_type：射击 历史 
+ranking：27,game_name：浩天奇缘2,game_type：角色 仙侠 横版 
+ranking：28,game_name：王牌猎手,game_type：射击 横版 动漫 
+ranking：29,game_name：火焰纹章：英雄,game_type：策略 角色 卡牌 魔幻 
+ranking：30,game_name：一人之下,game_type：角色 横版 

@@ -1,0 +1,50 @@
+ranking：1,game_name：明日之后,game_type：角色,open_state：即将测试,game_expect：85642
+ranking：2,game_name：烈火如歌,game_type：角色,open_state：公测,game_expect：84248
+ranking：3,game_name：废土危行,game_type：角色,open_state：删档内测,game_expect：83481
+ranking：4,game_name：太乙仙魔录,game_type：卡牌,open_state：04-24 10:00,game_expect：78835
+ranking：5,game_name：荣耀铁骑,game_type：角色,open_state：04-23 11:00,game_expect：78021
+ranking：6,game_name：武动乾坤,game_type：角色,open_state：删档封测,game_expect：77537
+ranking：7,game_name：武林外传,game_type：角色,open_state：删档封测,game_expect：77050
+ranking：8,game_name：放开我师父,game_type：角色,open_state：04-24 10:00,game_expect：75838
+ranking：9,game_name：最传奇,game_type：角色,open_state：不删档内测,game_expect：75765
+ranking：10,game_name：英雄文明,game_type：策略,open_state：不删档内测,game_expect：75446
+ranking：11,game_name：方舟生存进化,game_type：冒险,open_state：即将测试,game_expect：74118
+ranking：12,game_name：超杀默示录,game_type：动作,open_state：不删档内测,game_expect：73738
+ranking：13,game_name：非人学园,game_type：角色,open_state：删档内测,game_expect：73123
+ranking：14,game_name：奥特曼归来,game_type：策略,open_state：删档封测,game_expect：72854
+ranking：15,game_name：影之诗,game_type：策略,open_state：05-04 12:00,game_expect：72527
+ranking：16,game_name：贪婪洞窟2,game_type：冒险,open_state：即将测试,game_expect：72227
+ranking：17,game_name：剑网3指尖江湖,game_type：角色,open_state：即将测试,game_expect：71961
+ranking：18,game_name：闪耀暖暖,game_type：养成,open_state：即将测试,game_expect：71892
+ranking：19,game_name：侠客ol,game_type：角色,open_state：删档封测,game_expect：71889
+ranking：20,game_name：天涯明月刀,game_type：休闲,open_state：即将测试,game_expect：71809
+ranking：21,game_name：龙珠觉醒,game_type：卡牌,open_state：删档内测,game_expect：71615
+ranking：22,game_name：轮回诀,game_type：卡牌,open_state：04-26 11:00,game_expect：71113
+ranking：23,game_name：票房大卖王,game_type：模拟,open_state：04-26 11:00,game_expect：71106
+ranking：24,game_name：希望传说,game_type：角色,open_state：删档内测,game_expect：70767
+ranking：25,game_name：九幽仙域,game_type：角色,open_state：不删档内测,game_expect：70408
+ranking：26,game_name：地灵曲,game_type：动作,open_state：04-24 10:00,game_expect：70122
+ranking：27,game_name：魔力物语,game_type：回合,open_state：删档内测,game_expect：69646
+ranking：28,game_name：热血武道会,game_type：角色,open_state：不删档内测,game_expect：69564
+ranking：29,game_name：墨三国,game_type：策略,open_state：删档内测,game_expect：69548
+ranking：30,game_name：铁血武林2,game_type：角色,open_state：不删档内测,game_expect：69524
+ranking：31,game_name：口袋对决,game_type：卡牌,open_state：删档内测,game_expect：69297
+ranking：32,game_name：烈焰屠神,game_type：角色,open_state：04-24 10:00,game_expect：69195
+ranking：33,game_name：六道轮回,game_type：角色,open_state：不删档内测,game_expect：68846
+ranking：34,game_name：远征手游,game_type：角色,open_state：删档封测,game_expect：68286
+ranking：35,game_name：航海王：燃烧意志,game_type：角色,open_state：删档内测,game_expect：68186
+ranking：36,game_name：实况足球,game_type：体育,open_state：删档封测,game_expect：67479
+ranking：37,game_name：领主,game_type：策略,open_state：不删档内测,game_expect：67272
+ranking：38,game_name：嘣战纪,game_type：休闲,open_state：删档封测,game_expect：67186
+ranking：39,game_name：堡垒之夜,game_type：角色,open_state：运营,game_expect：67047
+ranking：40,game_name：幻想计划,game_type：动作,open_state：04-24 10:00,game_expect：66871
+ranking：41,game_name：奥拉索斯战纪,game_type：角色,open_state：删档内测,game_expect：66740
+ranking：42,game_name：中土纪元,game_type：角色,open_state：删档内测,game_expect：66686
+ranking：43,game_name：INSIDE,game_type：冒险,open_state：即将测试,game_expect：65537
+ranking：44,game_name：女神联盟2,game_type：卡牌,open_state：删档内测,game_expect：65511
+ranking：45,game_name：少年锦衣卫,game_type：角色,open_state：删档内测,game_expect：65206
+ranking：46,game_name：云裳羽衣,game_type：养成,open_state：即将测试,game_expect：64636
+ranking：47,game_name：英魂外传,game_type：角色,open_state：04-24 10:00,game_expect：64412
+ranking：48,game_name：烈焰武尊,game_type：角色,open_state：04-25 10:00,game_expect：64324
+ranking：49,game_name：大武将,game_type：卡牌,open_state：04-24 10:00,game_expect：64141
+ranking：50,game_name：猎龙计划,game_type：动作,open_state：删档封测,game_expect：63997
